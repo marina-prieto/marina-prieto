@@ -1,4 +1,4 @@
-![Banner_Thalassaina](Banner_Thalassaina.png)
+![Banner_Thalassaina](bannergithub.png)
 
 <p align="center">
 
